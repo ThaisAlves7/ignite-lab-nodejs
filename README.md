@@ -12,6 +12,6 @@ Rocketseat Ignite
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 [circleci-url]: https://circleci.com/gh/nestjs/nest
 
-### 🖇 Documentação NestJs [aqui](https://docs.nestjs.com/support)
+### 🖇 Acesso a Documentação [NestJs](https://docs.nestjs.com/support)
 
-### 🖇 Github [Nest](https://github.com/nestjs/nest)
+### 🖇 Acesso ao Github [NestJs](https://github.com/nestjs/nest)
